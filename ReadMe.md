@@ -1,5 +1,5 @@
 # Rate of Crime in the City of Boston(2015 - 2018)
-#### Using python, sql and a dataset from Kaggle we as a group analyzed and cleaned this dataset (30/9/2021)
+#### Using python, sql and a dataset from Kaggle we as a group analyzed and cleaned this dataset (10/01/2021)
 #### By 
 * Andrew Wairegi
 * Elizabeth Kibuna
